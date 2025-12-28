@@ -1,0 +1,31 @@
+# personal
+my/
+
+# python
+__pycache__/
+*.pyc
+
+# env
+gpunit_env/
+venv/
+.env
+
+# model / checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+models/
+weights/
+
+# results / logs
+results/
+logs/
+runs/
+
+# datasets
+data/
+datasets/
+
+# system
+.DS_Store
